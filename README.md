@@ -12,4 +12,13 @@ I'm a passionate developer focusing on building impactful projects, learning new
 ### 🛠️ Tech Stack & Tools
 * **Languages:** Python, JavaScript, C++ 
 * **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 🏆 Certifications
+* **Python Certification** 
+  
+  ![Python Certification](python%20certification.jpeg)
+
+* 📄 **[Click here to view my Infosys Certification (PDF)](infosys%20certification.pdf)**
 *
